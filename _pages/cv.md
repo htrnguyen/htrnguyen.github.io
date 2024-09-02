@@ -7,58 +7,35 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# Ha Trong Nguyen
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Email:** hatrongnguyen04@gmail.com  
+**Phone:** +84 338 996 391  
+**LinkedIn:** [nguyenn04](https://www.linkedin.com/in/nguyenn04/)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **2022 - Present:** Third-year student, B.S. in Computer Science, Ton Duc Thang University
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Work Experience 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<!-- * **[Start Date - End Date (or "Present")]** **[Job Title]**, **[Company/Organization]**
+    * Briefly describe your responsibilities and accomplishments (start with action verbs). 
+    * (Add more positions if applicable, following the same structure).  -->
+
+## Projects
+
+<!-- * **[Project Name]:** [Short description of the project, technologies used] ([Link to Github repository - if applicable])
+* **[Project Name]:** [Short description of the project, technologies used] ([Link to Github repository - if applicable])  -->
+
+## Skills
+
+* **Programming Languages:** Python, Java
+* **Tools & Frameworks:** TensorFlow, PyTorch, OpenCV
+* **Soft Skills:** Teamwork, Communication
+* **Languages:** Vietnamese (Native), English (B1)
+
+## Activities 
+<!-- 
+* **[Activity Name]:** [Briefly describe the activity and your role] ([Time period/Year] - if applicable)
+* (Add more activities if applicable, following the same structure) -->
