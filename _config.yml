@@ -12,9 +12,9 @@ title: 'Homepage'
 title_separator: '-'
 name: &name 'Ha Trong Nguyen'
 description: &description 'personal website and blog'
-url: https://nguyenn-04.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://htrnguyen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: '' # the subpath of your site, e.g. "/blog"
-repository: 'nguyenn-04/nguyenn-04.github.io'
+repository: 'htrnguyen/htrnguyen.github.io'
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -43,13 +43,13 @@ author:
     bitbucket: # Username - Update with your username on the site
     codepen: # Username
     dribbble: # Username
-    github: 'nguyenn-04'
+    github: 'htrnguyen'
     kaggle: # Username
     stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
     # Social media
     bluesky: # 'bsky.app' # Replace this with you Bluesky username
-    facebook: 'trongnguyen2304'
+    facebook: 'htrnguyenn'
     flickr: # Username
     foursquare: # Username
     goodreads: # Username
@@ -57,7 +57,7 @@ author:
     keybase: # Username
     instagram: # Username
     lastfm: # Username
-    linkedin: 'nguyenn04'
+    linkedin: 'htrnguyen'
     mastodon: # URL
     medium: # URL
     pinterest: # Username
